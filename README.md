@@ -78,7 +78,7 @@ public class program
 ```
 
 ## Output:
-![image](https://user-images.githubusercontent.com/93434149/204128079-ecbc5d4b-aa11-4f26-b2ed-4a55b470e187.png)
+![1](https://github.com/Thiru-AI/File/assets/94980741/7eb0c129-f60b-4d1e-b5b8-acb5f7b427ab)
 
 
 ## Result:
